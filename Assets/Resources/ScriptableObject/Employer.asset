@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Employer
   m_EditorClassIdentifier: 
   head: {fileID: 22100000, guid: e99cf95166317da43ba92338f301157a, type: 2}
-  body: {fileID: 22100000, guid: 5e790e8c6c21ad64b95c197ae8998be6, type: 2}
+  body: {fileID: 22100000, guid: 34104e9e3bdc7bb45b5956168c3be8a6, type: 2}
   outfit: 
   weapon: 
   characterName: Medic
