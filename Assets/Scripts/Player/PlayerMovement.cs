@@ -9,7 +9,7 @@ public class PlayerMovement : MonoBehaviour
     float speed = 5f;
 
     float previousXMovement = 0;
-    float previousYMovement = 0;
+
     Rigidbody2D playerRigidbody;
 
     Animator bodyAnimator;
@@ -53,7 +53,7 @@ public class PlayerMovement : MonoBehaviour
 
     void FixedUpdate()
     {
-        playerRigidbody.MovePosition((playerRigidbody.position + (movement * Time.fixedDeltaTime * (speed/10))));
+        playerRigidbody.MovePosition((playerRigidbody.position + (movement * Time.fixedDeltaTime * (speed/5))));
     }
 
 }

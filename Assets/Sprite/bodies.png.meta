@@ -16,10 +16,10 @@ TextureImporter:
     second: b_officer_down_1
   - first:
       213: 6560510854885717560
-    second: bodies_4
+    second: employer_down_1
   - first:
       213: -414415189203497752
-    second: bodies_5
+    second: medic_down_1
   - first:
       213: 6504475883827265597
     second: bodies_6
@@ -49,10 +49,10 @@ TextureImporter:
     second: b_officer_down_2
   - first:
       213: 3398755693304053808
-    second: bodies_15
+    second: employer_down_2
   - first:
       213: 4234295494761897087
-    second: bodies_16
+    second: medic_down_2
   - first:
       213: 8627647287247972028
     second: bodies_17
@@ -82,10 +82,10 @@ TextureImporter:
     second: b_officer_up_1
   - first:
       213: -4914419478167445723
-    second: bodies_26
+    second: employer_up_1
   - first:
       213: -3595452889957108351
-    second: bodies_27
+    second: medic_up_1
   - first:
       213: -92510859367011365
     second: bodies_28
@@ -115,10 +115,10 @@ TextureImporter:
     second: b_officer_up_2
   - first:
       213: 8078964047189860872
-    second: bodies_37
+    second: employer_up_2
   - first:
       213: 5936891082564360653
-    second: bodies_38
+    second: medic_up_2
   - first:
       213: 7382573033393995167
     second: bodies_39
@@ -148,10 +148,10 @@ TextureImporter:
     second: b_officer_right_1
   - first:
       213: 5096095853951735684
-    second: bodies_48
+    second: employer_right_1
   - first:
       213: -8146986486959744550
-    second: bodies_49
+    second: medic_right_1
   - first:
       213: -4238694443238317862
     second: bodies_50
@@ -181,10 +181,10 @@ TextureImporter:
     second: b_officer_right_2
   - first:
       213: 2946278884006925099
-    second: bodies_59
+    second: employer_right_2
   - first:
       213: -4761854014416099277
-    second: bodies_60
+    second: medic_right_2
   - first:
       213: -5756906367523968915
     second: bodies_61
@@ -214,10 +214,10 @@ TextureImporter:
     second: b_officer_left_1
   - first:
       213: -2065384816853791295
-    second: bodies_70
+    second: employer_left_1
   - first:
       213: -5987090945706218064
-    second: bodies_71
+    second: medic_left_1
   - first:
       213: -273917271505386893
     second: bodies_72
@@ -247,10 +247,10 @@ TextureImporter:
     second: b_officer_left_2
   - first:
       213: 5129926270994047256
-    second: bodies_81
+    second: employer_left_2
   - first:
       213: -3518776833382064664
-    second: bodies_82
+    second: medic_left_2
   - first:
       213: 1218807575558150830
     second: bodies_83
@@ -446,7 +446,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bodies_4
+      name: employer_down_1
       rect:
         serializedVersion: 2
         x: 400
@@ -467,7 +467,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bodies_5
+      name: medic_down_1
       rect:
         serializedVersion: 2
         x: 500
@@ -677,7 +677,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bodies_15
+      name: employer_down_2
       rect:
         serializedVersion: 2
         x: 400
@@ -698,7 +698,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bodies_16
+      name: medic_down_2
       rect:
         serializedVersion: 2
         x: 500
@@ -908,7 +908,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bodies_26
+      name: employer_up_1
       rect:
         serializedVersion: 2
         x: 400
@@ -929,15 +929,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bodies_27
+      name: medic_up_1
       rect:
         serializedVersion: 2
         x: 500
         y: 520
         width: 100
         height: 100
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1139,7 +1139,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bodies_37
+      name: employer_up_2
       rect:
         serializedVersion: 2
         x: 400
@@ -1160,7 +1160,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bodies_38
+      name: medic_up_2
       rect:
         serializedVersion: 2
         x: 500
@@ -1370,7 +1370,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bodies_48
+      name: employer_right_1
       rect:
         serializedVersion: 2
         x: 400
@@ -1391,7 +1391,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bodies_49
+      name: medic_right_1
       rect:
         serializedVersion: 2
         x: 500
@@ -1601,7 +1601,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bodies_59
+      name: employer_right_2
       rect:
         serializedVersion: 2
         x: 400
@@ -1622,7 +1622,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bodies_60
+      name: medic_right_2
       rect:
         serializedVersion: 2
         x: 500
@@ -1832,7 +1832,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bodies_70
+      name: employer_left_1
       rect:
         serializedVersion: 2
         x: 400
@@ -1853,7 +1853,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bodies_71
+      name: medic_left_1
       rect:
         serializedVersion: 2
         x: 500
@@ -2063,7 +2063,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bodies_81
+      name: employer_left_2
       rect:
         serializedVersion: 2
         x: 400
@@ -2084,7 +2084,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bodies_82
+      name: medic_left_2
       rect:
         serializedVersion: 2
         x: 500

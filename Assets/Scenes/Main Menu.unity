@@ -1574,6 +1574,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 346789578}
   m_CullTransparentMesh: 0
+--- !u!1 &369238759 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 418496035237926277, guid: 5a70c9a93ad24f644a7ea86dff9d0b7d,
+    type: 3}
+  m_PrefabInstance: {fileID: 1754657903}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &369238760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 369238759}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de3680d3d7ab74d4a904f5c38de5e83d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerUI: {fileID: 891638012}
 --- !u!224 &373375822 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 418496035237926278, guid: 5a70c9a93ad24f644a7ea86dff9d0b7d,
@@ -4091,6 +4110,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   wrongSound: {fileID: 8300000, guid: c39a8f6706a201a4f8d37140f8b91736, type: 3}
+--- !u!1 &891638012 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 928044732332178596, guid: 52d9f8813858ef74b83e8ac3f670a4e1,
+    type: 3}
+  m_PrefabInstance: {fileID: 1052239883}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &912845206
 GameObject:
   m_ObjectHideFlags: 0
@@ -4533,7 +4558,12 @@ PrefabInstance:
     - target: {fileID: 928044732332178596, guid: 52d9f8813858ef74b83e8ac3f670a4e1,
         type: 3}
       propertyPath: m_Name
-      value: InmateUI
+      value: PlayerUI
+      objectReference: {fileID: 0}
+    - target: {fileID: 928044732332178596, guid: 52d9f8813858ef74b83e8ac3f670a4e1,
+        type: 3}
+      propertyPath: m_TagString
+      value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 4393446630301879020, guid: 52d9f8813858ef74b83e8ac3f670a4e1,
         type: 3}
@@ -8170,6 +8200,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Interactable
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 418496035237926279, guid: 5a70c9a93ad24f644a7ea86dff9d0b7d,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a70c9a93ad24f644a7ea86dff9d0b7d, type: 3}
