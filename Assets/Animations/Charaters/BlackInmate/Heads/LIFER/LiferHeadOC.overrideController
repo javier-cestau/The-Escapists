@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LiferHeadOC
+  m_Controller: {fileID: 9100000, guid: 0a287324c3815374887403a98eb5fb87, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 7a00f0eda853d974aba9916a5670d3b8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c0a5bbf6d7fea3a40acd6b8d4e3c6f7c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a42f65a36846df341a755a517111ecb9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 81e884fe17686c44392c32d2ffe0a2c8, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c636b89d6add9ad4dbf4b15b9f602404, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: abf721830f57dae4985becd74af34946, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bb2b15360476f9e4ca122dcc4f4dcb1b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 4e2eeb61481c7e143a9d7433c85b285a, type: 2}

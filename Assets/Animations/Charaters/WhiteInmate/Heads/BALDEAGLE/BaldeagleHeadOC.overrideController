@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BaldeagleHeadOC
+  m_Controller: {fileID: 9100000, guid: 0a287324c3815374887403a98eb5fb87, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 7a00f0eda853d974aba9916a5670d3b8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1645152b1ab52ff4fb412ee9055dae95, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a42f65a36846df341a755a517111ecb9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bed2ce7fa1dd7e345b2a48f0cee4efbe, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c636b89d6add9ad4dbf4b15b9f602404, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fb1f30ad231698d4d9d18090c699a6c2, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: bb2b15360476f9e4ca122dcc4f4dcb1b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b1b111bd61c80e94fb49e8704381e7bd, type: 2}

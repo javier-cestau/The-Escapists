@@ -1,0 +1,2227 @@
+fileFormatVersion: 2
+guid: 9d43b95970355e54f87e515659fce31c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1743194722132219160
+    second: w_inmate_down_1
+  - first:
+      213: -7739112529119816975
+    second: b_inmate_down_1
+  - first:
+      213: -1845904194501359650
+    second: w_officer_down_1
+  - first:
+      213: -4517594066516188971
+    second: b_officer_down_1
+  - first:
+      213: 6560510854885717560
+    second: bodies_4
+  - first:
+      213: -414415189203497752
+    second: bodies_5
+  - first:
+      213: 6504475883827265597
+    second: bodies_6
+  - first:
+      213: -817993428810155199
+    second: bodies_7
+  - first:
+      213: 7675114343212251722
+    second: bodies_8
+  - first:
+      213: 1611106372867403773
+    second: bodies_9
+  - first:
+      213: 9022879947737306765
+    second: bodies_10
+  - first:
+      213: 4988867635267992923
+    second: w_inmate_down_2
+  - first:
+      213: 3541871376663347652
+    second: b_inmate_down_2
+  - first:
+      213: -6035695965320485783
+    second: w_officer_down_2
+  - first:
+      213: 8432751549693318316
+    second: b_officer_down_2
+  - first:
+      213: 3398755693304053808
+    second: bodies_15
+  - first:
+      213: 4234295494761897087
+    second: bodies_16
+  - first:
+      213: 8627647287247972028
+    second: bodies_17
+  - first:
+      213: 12753532206433898
+    second: bodies_18
+  - first:
+      213: 6326056244869747793
+    second: bodies_19
+  - first:
+      213: 504364867240951089
+    second: bodies_20
+  - first:
+      213: -2700669833323467306
+    second: bodies_21
+  - first:
+      213: -443817839077862021
+    second: w_inmate_up_1
+  - first:
+      213: 5682546221061912841
+    second: b_inmate_up_1
+  - first:
+      213: -3782095258961772662
+    second: w_officer_up_1
+  - first:
+      213: -3361716672807957386
+    second: b_officer_up_1
+  - first:
+      213: -4914419478167445723
+    second: bodies_26
+  - first:
+      213: -3595452889957108351
+    second: bodies_27
+  - first:
+      213: -92510859367011365
+    second: bodies_28
+  - first:
+      213: -4569138586455772305
+    second: bodies_29
+  - first:
+      213: -6837291655077471670
+    second: bodies_30
+  - first:
+      213: -3714461167861087513
+    second: bodies_31
+  - first:
+      213: 4362045618392364532
+    second: bodies_32
+  - first:
+      213: -3658674712996171862
+    second: w_inmate_up_2
+  - first:
+      213: 1710754183142508644
+    second: b_inmate_up_2
+  - first:
+      213: 1611023885474991554
+    second: w_officer_up_2
+  - first:
+      213: 7431148347502596765
+    second: b_officer_up_2
+  - first:
+      213: 8078964047189860872
+    second: bodies_37
+  - first:
+      213: 5936891082564360653
+    second: bodies_38
+  - first:
+      213: 7382573033393995167
+    second: bodies_39
+  - first:
+      213: 6467575221993584179
+    second: bodies_40
+  - first:
+      213: -6352417993033995145
+    second: bodies_41
+  - first:
+      213: 3954736474464188315
+    second: bodies_42
+  - first:
+      213: 3879511144798004150
+    second: bodies_43
+  - first:
+      213: 6473908381451110656
+    second: w_inmate_right_1
+  - first:
+      213: -2451520184241394909
+    second: b_inmate_right_1
+  - first:
+      213: 4658403527215453277
+    second: w_officer_right_1
+  - first:
+      213: 1984612800451781743
+    second: b_officer_right_1
+  - first:
+      213: 5096095853951735684
+    second: bodies_48
+  - first:
+      213: -8146986486959744550
+    second: bodies_49
+  - first:
+      213: -4238694443238317862
+    second: bodies_50
+  - first:
+      213: -6732478322233508554
+    second: bodies_51
+  - first:
+      213: -5632664041702058485
+    second: bodies_52
+  - first:
+      213: -2359934885900316750
+    second: bodies_53
+  - first:
+      213: -2337403824896163127
+    second: bodies_54
+  - first:
+      213: -8994510686698796209
+    second: w_inmate_right_2
+  - first:
+      213: -1021694643976101649
+    second: b_inmate_right_2
+  - first:
+      213: 4131688947295546033
+    second: w_officer_right_2
+  - first:
+      213: 7907414314286526483
+    second: b_officer_right_2
+  - first:
+      213: 2946278884006925099
+    second: bodies_59
+  - first:
+      213: -4761854014416099277
+    second: bodies_60
+  - first:
+      213: -5756906367523968915
+    second: bodies_61
+  - first:
+      213: -4166839440769214272
+    second: bodies_62
+  - first:
+      213: 753107109947102218
+    second: bodies_63
+  - first:
+      213: -3520824691713827765
+    second: bodies_64
+  - first:
+      213: 7889693571314840388
+    second: bodies_65
+  - first:
+      213: -5633259430874524999
+    second: w_inmate_left_1
+  - first:
+      213: 2131101385795308880
+    second: b_inmate_left_1
+  - first:
+      213: 409356004893588366
+    second: w_officer_left_1
+  - first:
+      213: 6680911596388689625
+    second: b_officer_left_1
+  - first:
+      213: -2065384816853791295
+    second: bodies_70
+  - first:
+      213: -5987090945706218064
+    second: bodies_71
+  - first:
+      213: -273917271505386893
+    second: bodies_72
+  - first:
+      213: -7778735345609167050
+    second: bodies_73
+  - first:
+      213: -7975728221935332934
+    second: bodies_74
+  - first:
+      213: -639637771995839074
+    second: bodies_75
+  - first:
+      213: 6798922983976128068
+    second: bodies_76
+  - first:
+      213: -3904758575404985813
+    second: w_inmate_left_2
+  - first:
+      213: -6636444744966488194
+    second: b_inmate_left_2
+  - first:
+      213: 1077521500305222690
+    second: w_officer_left_2
+  - first:
+      213: 5758287971582069442
+    second: b_officer_left_2
+  - first:
+      213: 5129926270994047256
+    second: bodies_81
+  - first:
+      213: -3518776833382064664
+    second: bodies_82
+  - first:
+      213: 1218807575558150830
+    second: bodies_83
+  - first:
+      213: -2638196869835709579
+    second: bodies_84
+  - first:
+      213: 8832867623920166536
+    second: bodies_85
+  - first:
+      213: -7808026234381942297
+    second: bodies_86
+  - first:
+      213: 8530425695045925991
+    second: bodies_87
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: w_inmate_down_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a793d43aa368873428d8bd8ffb8d5c82
+      internalID: -1743194722132219160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_inmate_down_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 720
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.48, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e3b152a9a5cbf41b42914678b7ef6c
+      internalID: -7739112529119816975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: w_officer_down_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 720
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bf7bb180a804f478661b6ee690b1d4
+      internalID: -1845904194501359650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_officer_down_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 720
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342d7901317e55c46a08d157e56c2f33
+      internalID: -4517594066516188971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 720
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac56bc1d7a437741a7d13a3091b59a4
+      internalID: 6560510854885717560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 720
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c679830ac759f07428d5a6f4ebe80a0a
+      internalID: -414415189203497752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 720
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78a82a70a66e57448e9fb42120122b1
+      internalID: 6504475883827265597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 720
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f25032fb5fa6948909955274555ad8
+      internalID: -817993428810155199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 720
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93667e4b94fdc884c97e2da44879144c
+      internalID: 7675114343212251722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 720
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617b57d79113a6f47abc61fa095b0a43
+      internalID: 1611106372867403773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 720
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb03266d3c463b42b529072db96f896
+      internalID: 9022879947737306765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: w_inmate_down_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bcbbe44553d51488f23f88379d624d
+      internalID: 4988867635267992923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_inmate_down_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 620
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.535, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0f5f6ef2858f74689f99a0fb68ec8b
+      internalID: 3541871376663347652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: w_officer_down_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 620
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c3bbf27815658459511e7c807e0273
+      internalID: -6035695965320485783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_officer_down_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 620
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1400ec152ecb9f041a845422f2c91f65
+      internalID: 8432751549693318316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 620
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b5e21d46a172b49af94b51ed096b26
+      internalID: 3398755693304053808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_16
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 620
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855cfaa393084c84085e26d5667cc189
+      internalID: 4234295494761897087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_17
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 620
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ef69ea2d50a9b4f8b0049d0ddcab65
+      internalID: 8627647287247972028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_18
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 620
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05296c7c52dd2ad4489a4e7fc753f24a
+      internalID: 12753532206433898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 620
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db95e6720e078b04489b769aed64af7a
+      internalID: 6326056244869747793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_20
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 620
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fe1736a38afc441aba1e0117e515fd
+      internalID: 504364867240951089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_21
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 620
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda96af525f39b84f942d80d5aa81040
+      internalID: -2700669833323467306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: w_inmate_up_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ad6cb07437fe24b92f1cd4236251fd
+      internalID: -443817839077862021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_inmate_up_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 520
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c497be8c7bda94989d25702a70bc0e
+      internalID: 5682546221061912841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: w_officer_up_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 520
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be9c02ec183a6f4dba5ffef41b2d9aa
+      internalID: -3782095258961772662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_officer_up_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 520
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9308cafeaeb7042bb2947db356fe9a
+      internalID: -3361716672807957386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 520
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe52a0f39329d8488cc274920718b11
+      internalID: -4914419478167445723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_27
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 520
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3977f1aebbafde468fef325a6c9aef5
+      internalID: -3595452889957108351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 520
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c90d7786548022468342f2864e67813
+      internalID: -92510859367011365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_29
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 520
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f9bcae887deab40a3c37eacbf5debe
+      internalID: -4569138586455772305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_30
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 520
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8314c785ff358b4b9aef02d827ec5b6
+      internalID: -6837291655077471670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_31
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 520
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f16a903294c617468ace994c6be7867
+      internalID: -3714461167861087513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_32
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 520
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b781c8920ba7041a72eeaeeabbbb08
+      internalID: 4362045618392364532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: w_inmate_up_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52488daf70ff4542bd39b263bdaab0b
+      internalID: -3658674712996171862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_inmate_up_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 420
+        width: 100
+        height: 100
+      alignment: 9
+      pivot: {x: 0.511, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87d5067926e13b4eaba0fc77e46e4d5
+      internalID: 1710754183142508644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: w_officer_up_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 420
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaa3068a63cffa4896ac68a7c0748b4
+      internalID: 1611023885474991554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_officer_up_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 420
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189f999132b7b864788225376c0a4df3
+      internalID: 7431148347502596765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_37
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 420
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab8a8e73a2cafd4787241b7229e6c2a
+      internalID: 8078964047189860872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_38
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 420
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f943b7ead7143498acc50f75fafba7
+      internalID: 5936891082564360653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_39
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 420
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0023161c68ff544aa6aa5c2898ed82
+      internalID: 7382573033393995167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_40
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 420
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9dbfe461008e64483aaddeb9c2dc98
+      internalID: 6467575221993584179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 420
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b590babdca994ce48ac63a83ee6f70d9
+      internalID: -6352417993033995145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_42
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 420
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e886f48dbc918a34cb6f95bf0d272949
+      internalID: 3954736474464188315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_43
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 420
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0e3a7f663911241af5b09f74d7f540
+      internalID: 3879511144798004150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: w_inmate_right_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52763effdc468546afc6198feb90444
+      internalID: 6473908381451110656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_inmate_right_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c11085cea339c648b5146625f3574c8
+      internalID: -2451520184241394909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: w_officer_right_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287bf6e54065ce043a471493cae231c7
+      internalID: 4658403527215453277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_officer_right_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47ee083d7623b9428caa1fe33c72406
+      internalID: 1984612800451781743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_48
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81104cb74a8d214e89c0743d6239d55
+      internalID: 5096095853951735684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_49
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148acee4dbe85404f9895d8553d7fd2c
+      internalID: -8146986486959744550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20429ff84e559ce43ae6133a6fe08f9b
+      internalID: -4238694443238317862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_51
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4961b79878eab094c9044f19b7544e8f
+      internalID: -6732478322233508554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_52
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac1cb47708747c42982e6ce7ac5a1b6
+      internalID: -5632664041702058485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_53
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52acec0727b04d4181e16420aaa09f4
+      internalID: -2359934885900316750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_54
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 320
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b91343e1cfdb54b85797ad7dcc0d60
+      internalID: -2337403824896163127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: w_inmate_right_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c12e01d983ae94db5a49059309b4d2
+      internalID: -8994510686698796209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_inmate_right_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50d4c59afd7db042b78ecf12b231fc5
+      internalID: -1021694643976101649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: w_officer_right_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a797a4dd0b37b0944b1289f58d11ed99
+      internalID: 4131688947295546033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_officer_right_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3285a08da88619b488002a6f62353afe
+      internalID: 7907414314286526483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_59
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26648bdf24014f5489549e6041304197
+      internalID: 2946278884006925099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_60
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0380ed4f0b57a6b40b64357229527955
+      internalID: -4761854014416099277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_61
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17df48b5182ed4241bf8f7a0d03e81b4
+      internalID: -5756906367523968915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_62
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a098c043b105cb4bae2b190f33d934d
+      internalID: -4166839440769214272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_63
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cd0800933f2724ab91d2a4624d4ccb
+      internalID: 753107109947102218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_64
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4053b3cb6fa074b9f5f82dad288e18
+      internalID: -3520824691713827765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_65
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 220
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc4464df2f6e7a47beb5dbf5a3dfcac
+      internalID: 7889693571314840388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: w_inmate_left_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2209828b5379c75448ab64fb2410712d
+      internalID: -5633259430874524999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_inmate_left_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 120
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e8ae15368bad6478073cd3cbb012cd
+      internalID: 2131101385795308880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: w_officer_left_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 120
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ea8325ce1413b43b806d8d7cc26373
+      internalID: 409356004893588366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_officer_left_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 120
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ace1724a632d747912ce5c4eec5b27
+      internalID: 6680911596388689625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_70
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 120
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae64a0badad6934ca0e4a8f03daa8b4
+      internalID: -2065384816853791295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_71
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 120
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbed6a9273ecbb449f46d95f255786d
+      internalID: -5987090945706218064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_72
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 120
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbf4cf14f146ad468069d516ce8a998
+      internalID: -273917271505386893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_73
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 120
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032ff26daccf0be43b52c41b1a7a564e
+      internalID: -7778735345609167050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_74
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 120
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4137f3ba481737245937e427fd5a9d99
+      internalID: -7975728221935332934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_75
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 120
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1236b4368061449b0093a31e2449d7
+      internalID: -639637771995839074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_76
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 120
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdfb3ff55b6deb46acdd729b92cdc6f
+      internalID: 6798922983976128068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: w_inmate_left_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b0db8af3c4a424fb2d851e5854d38c
+      internalID: -3904758575404985813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_inmate_left_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 20
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c79e2471e68314c897e59ce34523e5
+      internalID: -6636444744966488194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: w_officer_left_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 20
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7966c54296e99f1478a28ff505c27f33
+      internalID: 1077521500305222690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b_officer_left_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 20
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbee3c8df2d62004786b075ffa7772ea
+      internalID: 5758287971582069442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_81
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 20
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f67462106842c4f88d5d05535a0f13
+      internalID: 5129926270994047256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_82
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 20
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6506fd5c40f0bd7409ba8fa99367cbaf
+      internalID: -3518776833382064664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_83
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 20
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605fd98fd3369ed44820f38e5548ca99
+      internalID: 1218807575558150830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_84
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 20
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d55e120f7e21a4ab747a1119322925
+      internalID: -2638196869835709579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_85
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 20
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c55794014f94cb48a758e3ceef16013
+      internalID: 8832867623920166536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_86
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 20
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029384a0374c972488ccceae58fcbd19
+      internalID: -7808026234381942297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bodies_87
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 20
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c938e2562526974f8926c3733885b8c
+      internalID: 8530425695045925991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

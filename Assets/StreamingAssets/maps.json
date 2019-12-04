@@ -1,0 +1,25 @@
+{
+    "maps": [
+        {
+            "difficulty": "",
+            "mapName": "Tutorial",
+            "thumbnail": "Tutorial-thumbnail",
+            "inmateAmount": 7,
+            "policeAmount": 5
+        },
+        {
+            "difficulty": "(Very Easy)",
+            "mapName": "CENTER PERKS",
+            "thumbnail": "CenterPerks-thumbnail",
+            "inmateAmount": 9,
+            "policeAmount": 5
+        },
+        {
+            "difficulty": "(Easy)",
+            "mapName": "STALAG FLUCHT",
+            "thumbnail": "StalagFlucht-thumbnail",
+            "inmateAmount": 9,
+            "policeAmount": 5
+        }
+    ]
+}
