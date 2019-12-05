@@ -6,6 +6,7 @@ TagManager:
   tags:
   - SFXSounds
   - BackgroundMusic
+  - Timer
   layers:
   - Default
   - TransparentFX
