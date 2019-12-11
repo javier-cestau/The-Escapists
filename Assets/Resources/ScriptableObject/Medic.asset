@@ -20,7 +20,8 @@ MonoBehaviour:
   speed: 30
   strength: 30
   intellect: 30
-  health: 15
+  health: 20
   endurance: 20
   money: 10
+  heat: 0
   isInmate: 0

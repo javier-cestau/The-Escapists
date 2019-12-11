@@ -7,6 +7,7 @@ using UnityEngine.Experimental.Rendering.LWRP;
 public class Timer : MonoBehaviour
 {
     Text timeText;
+    Text dayText;
 
     public Light2D globalight;
 
@@ -16,20 +17,31 @@ public class Timer : MonoBehaviour
     float minIntensity = .6f;
     float maxIntensity = 1f;
 
+    int currentDay = 1;
+
     // Start is called before the first frame update
     void Start()
     {
-        hours = 12;
+        hours = 23;
         minutes = 50;
         intensityMultiplier = 1f;
         timeText = GameObject.FindGameObjectWithTag("Timer").GetComponent<Text>();
+        dayText = GameObject.FindGameObjectWithTag("Day").GetComponent<Text>();
+        dayText.text = currentDay.ToString();
     }
 
     void FixedUpdate()
     {
-        minutes += Time.deltaTime * 20;
+        minutes += Time.deltaTime * 90;
         if(Mathf.Floor(minutes) >= 60 ) {
-            hours = hours == 23 ? 0 : hours + 1;
+            if(hours == 23) {
+                currentDay++;
+                dayText.text = currentDay.ToString();
+                hours = 0;
+            } else {
+                hours++;
+            }
+
             minutes = 0;
         }
 

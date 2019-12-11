@@ -7,6 +7,9 @@ TagManager:
   - SFXSounds
   - BackgroundMusic
   - Timer
+  - Day
+  - GamePaused
+  - Stats
   layers:
   - Default
   - TransparentFX

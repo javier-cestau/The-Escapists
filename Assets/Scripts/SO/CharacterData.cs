@@ -16,6 +16,8 @@ public class CharacterData : ScriptableObject
     public int health = 15;
     public int endurance = 20;
     public int money = 10;
+
+    public int heat = 0;
     public bool isInmate = true;
 
 }
