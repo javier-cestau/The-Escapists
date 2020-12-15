@@ -39,5 +39,6 @@ public class OpenMenu : MonoBehaviour
         }
         source.PlayOneShot(sound);
         objectToActive.SetActive(true);
+        GameManager.instance.currentOpenMenuWindow = objectToActive;
     }
 }

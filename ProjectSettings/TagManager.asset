@@ -10,6 +10,8 @@ TagManager:
   - Day
   - GamePaused
   - Stats
+  - SlotItem
+  - CraftSlotItem
   layers:
   - Default
   - TransparentFX

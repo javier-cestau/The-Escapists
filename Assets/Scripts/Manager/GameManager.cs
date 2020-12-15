@@ -8,8 +8,19 @@ public class GameManager : MonoBehaviour
 
     GameObject gamePausedContainerPanel;
 
+    [HideInInspector]
+    public GameObject currentOpenMenuWindow;
+
+    public static GameManager instance;
+
     void Awake()
     {
+        if(instance != null)  {
+            Destroy(gameObject);
+            return;
+        }
+        instance = this;
+
         GameObject player = GameObject.FindWithTag("Player");
         if(player == null) {
             player = (GameObject) GameObject.Instantiate(Resources.Load("Prefabs/Characters/Player", typeof(GameObject)));
@@ -34,6 +45,13 @@ public class GameManager : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Escape)) {
             Time.timeScale = Time.timeScale == 0 ? 1 : 0;
+
+            if(currentOpenMenuWindow != null) {
+                currentOpenMenuWindow.SetActive(false);
+                currentOpenMenuWindow = null;
+                return;
+            }
+
             GameObject GamePausedPanel = gamePausedContainerPanel.transform.Find("GamePausedPanel").gameObject;
             GamePausedPanel.SetActive(!GamePausedPanel.activeInHierarchy);
         }

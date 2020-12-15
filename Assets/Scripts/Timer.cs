@@ -9,7 +9,7 @@ public class Timer : MonoBehaviour
     Text timeText;
     Text dayText;
 
-    public Light2D globalight;
+    public UnityEngine.Experimental.Rendering.Universal.Light2D globalight;
 
     int hours;
     float minutes;

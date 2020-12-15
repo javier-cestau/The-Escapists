@@ -20,4 +20,6 @@ public class CharacterData : ScriptableObject
     public int heat = 0;
     public bool isInmate = true;
 
+    public Item[] inventory;
+
 }
